@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58f0c869308b2d8d0a898e2beca68ae0",
+    "revision": "babd3385a6937852d65601d84796df0b",
     "url": "/index.html"
   },
   {
-    "revision": "b27869d35499e636965c",
+    "revision": "925a01afac4eaac4a189",
     "url": "/static/css/main.adb9420c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1846de75.chunk.js.LICENSE"
   },
   {
-    "revision": "b27869d35499e636965c",
-    "url": "/static/js/main.88b20322.chunk.js"
+    "revision": "925a01afac4eaac4a189",
+    "url": "/static/js/main.9923b0ad.chunk.js"
   },
   {
     "revision": "0d46f7656c748826843c",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/biz-full.a3ade513.jpg"
   },
   {
-    "revision": "551dbb8266e05a6d46a28fc2a340be8a",
-    "url": "/static/media/biz-intro.551dbb82.png"
+    "revision": "d9ad4038f080edc5054b77df6f318c30",
+    "url": "/static/media/biz-intro.d9ad4038.png"
   },
   {
     "revision": "c219118c3c124d3898076c39f8a967fd",
@@ -80,16 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/condeal-bottom.b59746f3.jpg"
   },
   {
-    "revision": "e89ae95f5b5b06b32c3d49e3a2f55f8d",
-    "url": "/static/media/condeal-top.e89ae95f.png"
+    "revision": "34405b5ab467510e7eed912ee22ea976",
+    "url": "/static/media/condeal-top.34405b5a.png"
   },
   {
     "revision": "cdb1568b7f02a561554879015eda3d54",
     "url": "/static/media/condeal_intro.cdb1568b.jpg"
   },
   {
-    "revision": "f4f1806540feb49945f2bb79b972919b",
-    "url": "/static/media/condeal_mobile.f4f18065.jpg"
+    "revision": "19eaf67d9b504281de787546b2ce4e91",
+    "url": "/static/media/condeal_mobile.19eaf67d.jpg"
   },
   {
     "revision": "09a121f5307a011bcd7ae8bc3b3da9df",
@@ -120,56 +120,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kstar2-bottom.5b8011a5.jpg"
   },
   {
-    "revision": "03a2bf6051397198da3648748d767197",
-    "url": "/static/media/kstar2-top.03a2bf60.png"
+    "revision": "8e2095339e48df77fbb4a590510c9436",
+    "url": "/static/media/kstar2-top.8e209533.png"
   },
   {
     "revision": "62991ca378ba6ebc830110c32d7530da",
     "url": "/static/media/kstar2.0.62991ca3.jpg"
   },
   {
-    "revision": "b39133d90c03a8d029fa05a21a7b4d9b",
-    "url": "/static/media/kstar2.0Mobile.b39133d9.jpg"
+    "revision": "23ee8115655b4d57ec833973e98cea22",
+    "url": "/static/media/kstar2.0Mobile.23ee8115.jpg"
   },
   {
     "revision": "7a653de233a92310e68dad69854e149f",
     "url": "/static/media/kstar2.51.7a653de2.jpg"
   },
   {
-    "revision": "af7bafe515df3f033bd4b04555abc85c",
-    "url": "/static/media/kstar2.5Mobile_1.af7bafe5.jpg"
+    "revision": "11b3b25a880f80a94fe35fcf5c464a6f",
+    "url": "/static/media/kstar2.5Mobile_1.11b3b25a.jpg"
   },
   {
     "revision": "4f2282bcafb02bf855a80e90f1e63b20",
     "url": "/static/media/kstar3-bottom.4f2282bc.jpg"
   },
   {
-    "revision": "84dae22da2c7fa2029ed60fc8d418c74",
-    "url": "/static/media/kstar3-top.84dae22d.png"
+    "revision": "6dfcb186949aaba95418391f4977b02e",
+    "url": "/static/media/kstar3-top.6dfcb186.png"
   },
   {
     "revision": "b0f1188ffdf8076f6815fd007a58e55a",
     "url": "/static/media/kstarday-bottom.b0f1188f.jpg"
   },
   {
-    "revision": "938423d365a4d8d64c58d9c579cf055f",
-    "url": "/static/media/kstarday-top.938423d3.png"
+    "revision": "00b08a414e1c010dd34fecb981817347",
+    "url": "/static/media/kstarday-top.00b08a41.png"
   },
   {
-    "revision": "7c419678256e672dc63014b2594c8b3d",
-    "url": "/static/media/kstarday_mobile.7c419678.jpg"
+    "revision": "3f14c46a341b98acfa1c2af7b9e6b80a",
+    "url": "/static/media/kstarday_mobile.3f14c46a.jpg"
   },
   {
     "revision": "bb2710fb8c805509b86f682bb8f4a6bf",
     "url": "/static/media/opus-bottom.bb2710fb.jpg"
   },
   {
-    "revision": "6acb860af95860e881339a76e8233173",
-    "url": "/static/media/opus-top.6acb860a.png"
+    "revision": "3026a52a60b9d651ccd0dce97484597c",
+    "url": "/static/media/opus-top.3026a52a.png"
   },
   {
-    "revision": "e19cb0724770cf50feaabafa309c7022",
-    "url": "/static/media/opus_mobile.e19cb072.jpg"
+    "revision": "55aa870b7bf7213175bcc7713debbdb5",
+    "url": "/static/media/opus_mobile.55aa870b.jpg"
   },
   {
     "revision": "375f3779b596a927534d05f796e2b0b0",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/raon-top.c31c9bfc.png"
   },
   {
-    "revision": "365531cd071c48e1cb492b75fe2a2fe3",
-    "url": "/static/media/raon_mobile.365531cd.jpg"
+    "revision": "dfb190788d09cd3c925a94909205b8e9",
+    "url": "/static/media/raon_mobile.dfb19078.jpg"
   },
   {
     "revision": "096d20c6c6328d7f94908c5c1fecc663",
@@ -208,28 +208,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/starcoin-bottom.418a4abf.jpg"
   },
   {
-    "revision": "5ad8d482f8ca55b274a99983825342d9",
-    "url": "/static/media/starcoin-top.5ad8d482.png"
+    "revision": "a899dcfa51e27e717f1341bf8897b76c",
+    "url": "/static/media/starcoin-top.a899dcfa.png"
   },
   {
     "revision": "203a1bbde96018eaf8b00f4ca3c02f30",
     "url": "/static/media/starcoin.203a1bbd.jpg"
   },
   {
-    "revision": "8de07a1aa7a56935261c07eed6b7c8ee",
-    "url": "/static/media/starcoin_mobile.8de07a1a.jpg"
+    "revision": "5fe45991728a929e8c67f633b27853c8",
+    "url": "/static/media/starcoin_mobile.5fe45991.jpg"
   },
   {
     "revision": "470588df59b55f15b81a60415450d52d",
     "url": "/static/media/starpay-bottom.470588df.jpg"
   },
   {
-    "revision": "3af914e64e06af63f43289b6ea34231b",
-    "url": "/static/media/starpay-top.3af914e6.png"
+    "revision": "86bbd6a647c99418e7d75b11e777c224",
+    "url": "/static/media/starpay-top.86bbd6a6.png"
   },
   {
-    "revision": "71906a0e60b3af04a9a41ee023334bcd",
-    "url": "/static/media/starpay_mobile.71906a0e.jpg"
+    "revision": "3fb216e8625afd11f89852efddab64d8",
+    "url": "/static/media/starpay_mobile.3fb216e8.jpg"
   },
   {
     "revision": "06702dabde3431d8383747e74c1a953a",
