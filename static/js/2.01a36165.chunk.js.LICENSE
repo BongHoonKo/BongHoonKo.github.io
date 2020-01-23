@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! @source http://purl.eligrey.com/github/classList.js/blob/master/classList.js */
+
 /** @license React v16.12.0
  * react.production.min.js
  *
